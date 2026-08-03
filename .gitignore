@@ -1,0 +1,6 @@
+# 敏感数据 - 不要提交！
+cookie.txt
+*.db
+__pycache__/
+*.pyc
+.DS_Store
